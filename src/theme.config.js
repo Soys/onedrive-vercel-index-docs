@@ -28,6 +28,6 @@ export default {
   nextLinks: true,
   floatTOC: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
+  footerEditLink: '在GitHub上编辑此页',
   footerText: <>Built with love {new Date().getFullYear()} © Spencer Woo</>
 }
